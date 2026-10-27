@@ -1,0 +1,6 @@
+{
+  "name": "ShortsCounter - عداد الفيديوهات القصيرة الذكي",
+  "description": "تطبيق أندرويد متكامل بلغة Kotlin و Jetpack Compose مع خدمات Accessibility و Floating Overlay وداشبورد إحصائيات ومحاكي تفاعلي وكود مصدري قابل للتحميل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
